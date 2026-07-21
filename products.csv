@@ -1,0 +1,31 @@
+product_id,product_name,category,sub_category,cost_price,selling_price
+1,Laptop,Electronics,Computers,50000,65000
+2,Desktop,Electronics,Computers,42000,56000
+3,Gaming Mouse,Electronics,Accessories,500,850
+4,Keyboard,Electronics,Accessories,800,1400
+5,Monitor,Electronics,Displays,9000,13000
+6,Printer,Electronics,Office Equipment,6500,9000
+7,Smartphone,Electronics,Mobiles,18000,25000
+8,Tablet,Electronics,Mobiles,14000,19500
+9,Office Chair,Furniture,Chairs,3200,4800
+10,Study Table,Furniture,Tables,5000,7200
+11,Sofa,Furniture,Living Room,15000,21000
+12,Wardrobe,Furniture,Storage,12000,17000
+13,Notebook,Office Supplies,Stationery,40,70
+14,Pen Pack,Office Supplies,Stationery,60,120
+15,File Folder,Office Supplies,Storage,80,150
+16,Calculator,Office Supplies,Electronics,350,600
+17,Water Bottle,Accessories,Lifestyle,180,350
+18,Backpack,Accessories,Bags,900,1600
+19,Travel Bag,Accessories,Bags,1800,2900
+20,Wrist Watch,Accessories,Fashion,2500,4200
+21,Running Shoes,Sports,Footwear,2200,3600
+22,Football,Sports,Outdoor,450,800
+23,Cricket Bat,Sports,Outdoor,1400,2200
+24,Badminton Racket,Sports,Indoor,900,1600
+25,Yoga Mat,Sports,Fitness,500,900
+26,T-Shirt,Clothing,Men,300,700
+27,Jeans,Clothing,Men,900,1800
+28,Kurti,Clothing,Women,600,1200
+29,Jacket,Clothing,Winter Wear,1800,3200
+30,Sneakers,Clothing,Footwear,1500,2700

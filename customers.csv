@@ -1,0 +1,31 @@
+customer_id,customer_name,gender,age,city,state,country,segment
+1,Rahul Sharma,Male,28,Delhi,Delhi,India,Consumer
+2,Priya Verma,Female,24,Mumbai,Maharashtra,India,Corporate
+3,Amit Kumar,Male,35,Lucknow,Uttar Pradesh,India,Home Office
+4,Sneha Singh,Female,29,Bengaluru,Karnataka,India,Consumer
+5,Rohit Gupta,Male,42,Jaipur,Rajasthan,India,Corporate
+6,Neha Yadav,Female,31,Patna,Bihar,India,Consumer
+7,Arjun Patel,Male,27,Ahmedabad,Gujarat,India,Home Office
+8,Kiran Das,Female,30,Kolkata,West Bengal,India,Consumer
+9,Vikas Mishra,Male,38,Bhopal,Madhya Pradesh,India,Corporate
+10,Anjali Mehta,Female,26,Chandigarh,Chandigarh,India,Consumer
+11,Deepak Joshi,Male,33,Dehradun,Uttarakhand,India,Home Office
+12,Pooja Sharma,Female,25,Indore,Madhya Pradesh,India,Consumer
+13,Mohit Agarwal,Male,40,Kanpur,Uttar Pradesh,India,Corporate
+14,Riya Kapoor,Female,23,Pune,Maharashtra,India,Consumer
+15,Sanjay Kumar,Male,45,Hyderabad,Telangana,India,Corporate
+16,Nisha Gupta,Female,36,Noida,Uttar Pradesh,India,Home Office
+17,Harsh Jain,Male,29,Surat,Gujarat,India,Consumer
+18,Meena Rani,Female,32,Ludhiana,Punjab,India,Corporate
+19,Abhishek Singh,Male,34,Varanasi,Uttar Pradesh,India,Consumer
+20,Kavita Patel,Female,27,Nagpur,Maharashtra,India,Home Office
+21,Rajesh Verma,Male,41,Agra,Uttar Pradesh,India,Corporate
+22,Simran Kaur,Female,28,Amritsar,Punjab,India,Consumer
+23,Ajay Yadav,Male,37,Ranchi,Jharkhand,India,Home Office
+24,Pallavi Singh,Female,30,Gwalior,Madhya Pradesh,India,Consumer
+25,Vivek Sharma,Male,39,Meerut,Uttar Pradesh,India,Corporate
+26,Sakshi Jain,Female,24,Udaipur,Rajasthan,India,Consumer
+27,Nitin Kumar,Male,35,Jodhpur,Rajasthan,India,Corporate
+28,Asha Devi,Female,43,Raipur,Chhattisgarh,India,Home Office
+29,Manish Gupta,Male,31,Nashik,Maharashtra,India,Consumer
+30,Divya Sharma,Female,26,Mysuru,Karnataka,India,Consumer
