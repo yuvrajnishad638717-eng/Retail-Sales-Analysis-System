@@ -163,6 +163,6 @@ python Retails_sales.py
 **Yuvraj Nishad**
 
 - GitHub: https://github.com/yuvrajnishad638717-eng
-- LinkedIn: *(Add your LinkedIn profile URL)*
+- LinkedIn: linkedin.com/in/yuvraj-nishad-a24a12261
 
-LinkedIn: *(Add your LinkedIn profile link here)*
+LinkedIn: linkedin.com/in/yuvraj-nishad-a24a12261
